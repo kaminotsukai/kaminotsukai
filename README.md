@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Makoto Kami](https://twitter.com/kami_tsukai)
-- 📫 How to reach me: `gracefull.well1107@gmail.com`
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
  . | .
